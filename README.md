@@ -20,6 +20,8 @@ In order to be able to parse data using a pipe ( | ) instead of commas ( , ) you
 the program to work properly, even when the cell in excel have commas in them. For example, the product description field will
 have many commas in them.
 
+I found help from this article: http://optimalbi.com/blog/2015/07/16/how-to-export-an-excel-file-to-pipe-delimited-file-rather-than-comma-delimited-file/
+
 ![alt tag](https://cloud.githubusercontent.com/assets/6993716/24091864/0bbf721a-0d08-11e7-85ad-c8f11b58c220.PNG)
 
 ![alt tag](https://cloud.githubusercontent.com/assets/6993716/24091906/4bb56fbe-0d08-11e7-9bdd-3a13447b38a0.PNG)
